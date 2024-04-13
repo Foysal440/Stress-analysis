@@ -1,6 +1,6 @@
 # Stress-analysis
 
-# Project Overview##
+# Project Overview
 This project aims to analyze factors contributing to student stress, using a comprehensive dataset on student life and well-being. The analysis covers various aspects such as psychological, physiological, environmental, academic, and social factors. By exploring these dimensions, we seek to uncover patterns and insights that can help in understanding and potentially mitigating student stress.
 
 # Dataset
